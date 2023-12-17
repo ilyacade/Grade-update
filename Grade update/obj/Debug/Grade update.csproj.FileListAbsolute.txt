@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Grade update\Grade update\bin\Debug\Grade update.exe.config
+C:\Users\HP\source\repos\Grade update\Grade update\bin\Debug\Grade update.exe
+C:\Users\HP\source\repos\Grade update\Grade update\bin\Debug\Grade update.pdb
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade update.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade_update.Form1.resources
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade_update.Properties.Resources.resources
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade update.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade update.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade update.exe
+C:\Users\HP\source\repos\Grade update\Grade update\obj\Debug\Grade update.pdb
